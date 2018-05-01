@@ -5,4 +5,9 @@ D 39x9 Dots Matrix LED Driver
 K Matrix LED Driver
 $ENDCMP
 #
+$CMP IS31FL3741-ALT
+D 39x9 Dots Matrix LED Driver
+K Matrix LED Driver
+$ENDCMP
+#
 #End Doc Library
