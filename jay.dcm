@@ -10,4 +10,29 @@ D 39x9 Dots Matrix LED Driver
 K Matrix LED Driver
 $ENDCMP
 #
+$CMP PESD12VL2BT
+D Low Capacitance Double Bidirectional ESD Protection Diodes in SOT23, 12V Reverse Standoff Voltage
+K ESD SOT23 12V
+$ENDCMP
+#
+$CMP PESD15VL2BT
+D Low Capacitance Double Bidirectional ESD Protection Diodes in SOT23, 15V Reverse Standoff Voltage
+K ESD SOT23 15V
+$ENDCMP
+#
+$CMP PESD24VL2BT
+D Low Capacitance Double Bidirectional ESD Protection Diodes in SOT23, 24V Reverse Standoff Voltage
+K ESD SOT23 24V
+$ENDCMP
+#
+$CMP PESD3V3L2BT
+D Low Capacitance Double Bidirectional ESD Protection Diodes in SOT23, 3.3V Reverse Standoff Voltage
+K ESD SOT23 3.3V 3V3
+$ENDCMP
+#
+$CMP PESD5V0L2BT
+D Low Capacitance Double Bidirectional ESD Protection Diodes in SOT23, 5.0V Reverse Standoff Voltage
+K ESD SOT23 5V 5V0
+$ENDCMP
+#
 #End Doc Library
