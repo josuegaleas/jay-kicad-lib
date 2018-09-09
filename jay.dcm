@@ -1,37 +1,77 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AT90USB1286-AU
+D TQFP64, 16MHz, 128K Flash, 4K EEPROM, 8K SRAM, JTAG, USB 2.0
+K AVR 8bit Microcontroller USB
+$ENDCMP
+#
+$CMP AT90USB1286-MU
+D QFN64, 16MHz, 128K Flash, 4K EEPROM, 8K SRAM, JTAG, USB 2.0
+K AVR 8bit Microcontroller USB
+$ENDCMP
+#
+$CMP AT90USB1287-AU
+D TQFP64, 16MHz, 128K Flash, 4K EEPROM, 8K SRAM, JTAG, USB 2.0, USB OTG
+K AVR 8bit Microcontroller USB
+$ENDCMP
+#
+$CMP AT90USB1287-MU
+D QFN64, 16MHz, 128K Flash, 4K EEPROM, 8K SRAM, JTAG, USB 2.0, USB OTG
+K AVR 8bit Microcontroller USB
+$ENDCMP
+#
+$CMP AT90USB646-AU
+D TQFP64, 16MHz, 64K Flash, 2K EEPROM, 4K SRAM, JTAG, USB 2.0
+K AVR 8bit Microcontroller USB
+$ENDCMP
+#
+$CMP AT90USB646-MU
+D QFN64, 16MHz, 64K Flash, 2K EEPROM, 4K SRAM, JTAG, USB 2.0
+K AVR 8bit Microcontroller USB
+$ENDCMP
+#
+$CMP AT90USB647-AU
+D TQFP64, 16MHz, 64K Flash, 2K EEPROM, 4K SRAM, JTAG, USB 2.0, USB OTG
+K AVR 8bit Microcontroller USB
+$ENDCMP
+#
+$CMP AT90USB647-MU
+D QFN64, 16MHz, 64K Flash, 2K EEPROM, 4K SRAM, JTAG, USB 2.0, USB OTG
+K AVR 8bit Microcontroller USB
+$ENDCMP
+#
 $CMP IS31FL3741
-D 39x9 Dots Matrix LED Driver
+D QFN60, 39x9 Dots Matrix LED Driver
 K Matrix LED Driver
 $ENDCMP
 #
 $CMP IS31FL3741-ALT
-D 39x9 Dots Matrix LED Driver
+D QFN60, 39x9 Dots Matrix LED Driver
 K Matrix LED Driver
 $ENDCMP
 #
 $CMP PESD12VL2BT
-D Low Capacitance Double Bidirectional ESD Protection Diodes in SOT23, 12V Reverse Standoff Voltage
+D SOT23, Low Capacitance, Double Bidirectional ESD Protection Diodes, 12V Reverse Standoff Voltage
 K ESD SOT23 12V
 $ENDCMP
 #
 $CMP PESD15VL2BT
-D Low Capacitance Double Bidirectional ESD Protection Diodes in SOT23, 15V Reverse Standoff Voltage
+D SOT23, Low Capacitance, Double Bidirectional ESD Protection Diodes, 15V Reverse Standoff Voltage
 K ESD SOT23 15V
 $ENDCMP
 #
 $CMP PESD24VL2BT
-D Low Capacitance Double Bidirectional ESD Protection Diodes in SOT23, 24V Reverse Standoff Voltage
+D SOT23, Low Capacitance, Double Bidirectional ESD Protection Diodes, 24V Reverse Standoff Voltage
 K ESD SOT23 24V
 $ENDCMP
 #
 $CMP PESD3V3L2BT
-D Low Capacitance Double Bidirectional ESD Protection Diodes in SOT23, 3.3V Reverse Standoff Voltage
+D SOT23, Low Capacitance, Double Bidirectional ESD Protection Diodes, 3.3V Reverse Standoff Voltage
 K ESD SOT23 3.3V 3V3
 $ENDCMP
 #
 $CMP PESD5V0L2BT
-D Low Capacitance Double Bidirectional ESD Protection Diodes in SOT23, 5.0V Reverse Standoff Voltage
+D SOT23, Low Capacitance, Double Bidirectional ESD Protection Diodes, 5.0V Reverse Standoff Voltage
 K ESD SOT23 5V 5V0
 $ENDCMP
 #
