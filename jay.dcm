@@ -45,11 +45,6 @@ D QFN60, 39x9 Dots Matrix LED Driver
 K Matrix LED Driver
 $ENDCMP
 #
-$CMP IS31FL3741-ALT
-D QFN60, 39x9 Dots Matrix LED Driver
-K Matrix LED Driver
-$ENDCMP
-#
 $CMP PESD12VL2BT
 D SOT23, Low Capacitance, Double Bidirectional ESD Protection Diodes, 12V Reverse Standoff Voltage
 K ESD SOT23 12V

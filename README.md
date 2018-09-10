@@ -1,7 +1,7 @@
 # jay-kicad-lib
 Collection of symbols and footprints for KiCad.
 
-## Symbols Included
+## Symbols
 - [Microchip's AT90USB64/128 Series](http://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf)
 	- AT90USB1286
 	- AT90USB1287
@@ -15,5 +15,5 @@ Collection of symbols and footprints for KiCad.
 	- PESD15VL2BT
 	- PESD24VL2BT
 
-## Footprints Included
-WIP
+## Footprints
+None so far. QFN60 planned.
