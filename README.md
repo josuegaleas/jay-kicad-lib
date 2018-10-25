@@ -7,7 +7,7 @@ Collection of symbols and footprints for KiCad.
 	- AT90USB1287
 	- AT90USB646
 	- AT90USB647
-- [ISSI's IS31FL3741](http://www.issi.com/WW/pdf/IS31FL3741.pdf)
+- [ISSI's IS31FL3741](http://www.issi.com/WW/pdf/IS31FL3741.pdf) **(WIP)**
 - [Nexperia's PESDxL2BT Series](https://assets.nexperia.com/documents/data-sheet/PESDXL2BT_SER.pdf)
 	- PESD3V3L2BT
 	- PESD5V0L2BT
