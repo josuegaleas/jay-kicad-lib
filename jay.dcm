@@ -41,8 +41,8 @@ K AVR 8bit Microcontroller USB
 $ENDCMP
 #
 $CMP IS31FL3741
-D QFN60, 39x9 Dots Matrix LED Driver
-K Matrix LED Driver
+D 39x9 LED matrix driver with 8-bit PWM and breathing, QFN-60
+K led matrix pwm
 $ENDCMP
 #
 $CMP PESD12VL2BT
